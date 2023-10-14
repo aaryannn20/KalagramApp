@@ -1,4 +1,5 @@
 # Kalagram - A Social Media App with Material You Design
+![aryanlogo](https://github.com/aaryannn20/KalagramApp/assets/122681145/07f6fb66-31a4-4245-a3d9-ac816203795f)
 
 Kalagram is a social media app designed to help users share photos/images and short videos/reels with their friends. It offers features like following friends, liking and commenting on posts, and much more. This README provides an overview of the project, its features, and how to get started.
 
