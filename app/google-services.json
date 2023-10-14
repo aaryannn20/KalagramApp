@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485366548984",
+    "project_id": "kalagram-455fd",
+    "storage_bucket": "kalagram-455fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485366548984:android:d7fd9c657ea988313c6e0d",
+        "android_client_info": {
+          "package_name": "com.aryanmishra.KalagramApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHGDU4WIbAEcYihq4k54MEtxSfgvFYcp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
