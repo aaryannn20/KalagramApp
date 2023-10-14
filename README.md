@@ -30,7 +30,7 @@ To run Kalagram on your local development environment, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/aaryannn20/KalagramApp
+   git clone https://github.com/aaryannn20/KalagramApp.git
    ```
 
 2. Open the project in Android Studio.
