@@ -2,6 +2,8 @@
 ![aryanlogo](https://github.com/aaryannn20/KalagramApp/assets/122681145/07f6fb66-31a4-4245-a3d9-ac816203795f)
 
 Kalagram is a social media app designed to help users share photos/images and short videos/reels with their friends. It offers features like following friends, liking and commenting on posts, and much more. This README provides an overview of the project, its features, and how to get started.
+![Screenshot_2023-10-14-19-14-26-68_750519a01c36d25d025854a36c026460 2](https://github.com/aaryannn20/KalagramApp/assets/122681145/d4d3469e-813a-4e5a-87f9-d11e1f3bca51) ![Screenshot_2023-10-14-19-14-55-24_750519a01c36d25d025854a36c026460 2](https://github.com/aaryannn20/KalagramApp/assets/122681145/60c1d48a-63df-4012-af14-1c52b09d924a)![Screenshot_2023-10-14-19-19-35-15_750519a01c36d25d025854a36c026460 1](https://github.com/aaryannn20/KalagramApp/assets/122681145/e2a84402-a73a-4590-bf47-0ff61477974f)![Screenshot_2023-10-14-19-17-55-69_750519a01c36d25d025854a36c026460 1](https://github.com/aaryannn20/KalagramApp/assets/122681145/67be99ba-69c2-464c-a95f-78b291f2a002)
+
 
 ## Features
 
@@ -43,6 +45,8 @@ To run Kalagram on your local development environment, follow these steps:
    - Place the `google-services.json` file in the `app` directory of your project.
 
 4. Build and run the app in the Android Studio emulator or on a physical Android device.
+
+
 
 ## Contributing
 
